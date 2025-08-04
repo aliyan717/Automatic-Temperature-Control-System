@@ -55,4 +55,5 @@ This project was simulated using **Proteus**. The circuit includes:
 You can add images here using:
 
 ```markdown
-(circuit.png)
+![Circuit Diagram](circuit.png)
+
