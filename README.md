@@ -51,9 +51,5 @@ This project was simulated using **Proteus**. The circuit includes:
 ---
 
 ## 📷 Screenshots / Circuit Diagram
-
-You can add images here using:
-
-```markdown
 ![Circuit Diagram](circuit.png)
 
